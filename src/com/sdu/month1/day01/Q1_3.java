@@ -1,4 +1,4 @@
-package com.sdu.month1day01;
+package com.sdu.month1.day01;
 
 /**最长有效括号字串
  * @author huaikong

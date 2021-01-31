@@ -1,4 +1,4 @@
-package com.sdu.month1day01;
+package com.sdu.month1.day01;
 
 /**括号匹配问题
  * @author huaikong

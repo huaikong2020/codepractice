@@ -1,4 +1,4 @@
-package com.sdu.month1day01;
+package com.sdu.month1.day01;
 
 /**边框全一最大正方形
  * @author huaikong

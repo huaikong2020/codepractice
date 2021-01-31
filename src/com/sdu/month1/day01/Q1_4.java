@@ -1,4 +1,4 @@
-package com.sdu.month1day01;
+package com.sdu.month1.day01;
 
 /**RGRGR ----> RRRGG
  * 最佳染色方案
